@@ -30,5 +30,17 @@
 
 //刚刚学习了怎么更换应用icon  即AppIcon
 //两种方式配置启动图 （配置启动页 防止启动白屏的问题）
+
+/*
+ 把已经存在的项目上传到github步骤如下：
+ 在github上新建一个空的项目，不需要ignore和readme文件
+ 把项目地址放到xcode > preferences > accounts里面
+ cd进入本地项目，执行以下步骤就可以把项目上传到github上啦
+ git init
+ git add .
+ git commit -m "first commit"
+ git remote add origin https://github.com/yaoliangjun/Test.git（项目地址）
+ git push -u origin master 
+ */
 @end
 
