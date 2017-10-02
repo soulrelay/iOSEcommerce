@@ -43,5 +43,9 @@
  git push -u origin master 
  */
 //Test
+//UITabBarController
+//UIViewController
+//CocoaPods error:The dependency '' is not used in any concrete target http://blog.csdn.net/skylin19840101/article/details/51426732
+//UITabBarController 设置图片 颜色变深 考虑设置图片render模式 代码设置 或者点击图片进行render mode配置
 @end
 
