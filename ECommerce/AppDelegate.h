@@ -47,5 +47,17 @@
 //UIViewController
 //CocoaPods error:The dependency '' is not used in any concrete target http://blog.csdn.net/skylin19840101/article/details/51426732
 //UITabBarController 设置图片 颜色变深 考虑设置图片render模式 代码设置 或者点击图片进行render mode配置
+//优化UITabBarController 类前缀统一命名问题
+//UITabBarItem 通过appearance统一设置文字属性
+//UI_APPEARANCE_SELECTOR
+//第二次优化 设置四个UIViewController 通过plist文件配置
+
+//快捷键
+//Command+Shift+F 查找
+//Command + Shift + J 文件目录结构定位
+//程序中.h 和 .m文件间的快速切换: Control + Command + Up Arrow
+
+//二维码实现原理
+
 @end
 
